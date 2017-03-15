@@ -1,1 +1,1 @@
-# The-Grand-Orgue-Editor
+# **The Grand Orgue Editor**
